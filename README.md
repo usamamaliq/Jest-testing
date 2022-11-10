@@ -3,7 +3,7 @@
 # Jest Practice
 
 > In this repository you will find some testing exercises using jest for different functions using AAA and TDD approach.
-4 functions were created : String Counter, Reverse String, Calculator, and Capitalize String. zfurthermre, describe method was used to bundle tests togetger for calculator.
+4 functions were created : String Counter, Reverse String, Calculator, and Capitalize String. furthermre, describe method was used to bundle tests togetger for calculator.
 
 
 ## Built With
